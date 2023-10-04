@@ -23,9 +23,10 @@ music:
          * there are several fonts
      -  \img <- textures
           * \gui <- gui textures
-        	+ yes, textures
-          * yes, textures+      \maps <- maps
-          * map.json <- map that is generated after first launch
+             + yes, textures
+          * yes, textures+      
+	  * \maps <- maps
+             + map.json <- map that is generated after first launch
      - \music
           * menumusic.ogg <- music from menu
      - \tiles
@@ -64,5 +65,32 @@ where
 
 ## __Content__
 
-Game after launch starts with music and this view 
+Game after launch starts with music and this view: 
 ![scrn1](Screenshot_1.png)
+You will be able to navigate through menu using W, S, ESCAPE, SPACE
+
++ After choosing settings you will see:
+![scrn2](Screenshot_2.png)
+Where you can change your fps and if fps should be shown. 
+![scrn3](Screenshot_3.png)
+
++ After choosing new game you will se:
+![scrn4](Screenshot_4.png)
+When theoretically you're going to be able to "choose" difficulty, but this is not working and you will be simply loaded into the map.
+after choosing difficulty you will see the map:
+![scrn5](Screenshot_5.png)
+
+
+You can stop game by ESC and you will see this
+![scrn6](Screenshot_6.png)
+While your game is stopped, by clicking  F8 and L you can toogle DEV mode (bulding mode).
+
+![scrn7](Screenshot_7.png)
+
+KEYS:
+* h - hide menu
+* n - noclip
+* = - save map to map.json
+* J - change tile (write name in console after clicking), requires menu being visible (0 = remove tool)
+* l - change layer of editor, requires menu being visible (events layer is crashing after try of use it)
+
