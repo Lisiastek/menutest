@@ -1,0 +1,12 @@
+{
+    "maxfps": 60,
+    "showfps": false,
+    "dev": true,
+    "tickrate": 20,
+    "resx": 1280,
+    "resy": 720,
+    "paths": {
+        "path_mod": "\\mods\\",
+        "path_assets": "\\assets\\"
+    }
+}

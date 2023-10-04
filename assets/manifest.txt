@@ -1,0 +1,5 @@
+Fonts:
+	arbilk font is from WINDOWS 10 
+	Monster font is created by Vladimir Nikolic (Him propably email: milorad51@gmail.com) {FONT IS FREE}
+	SEGMENT16C - Daniel Wikholm Font {FONT IS FREE}
+

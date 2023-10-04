@@ -1,0 +1,8 @@
+{
+	"colission": false,
+	"objectType": "object",
+	"mainTexture": "tree.png",
+	"editorIcon": "7.png",
+	"isImportant": false,
+	"transparent": true
+}

@@ -1,0 +1,8 @@
+{
+	"colission": false,
+	"objectType": "object",
+	"mainTexture": "leaves.png",
+	"editorIcon": "leaves.png",
+	"isImportant": false,
+	"transparent": true
+}

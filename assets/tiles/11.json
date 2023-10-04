@@ -1,0 +1,8 @@
+{
+	"colission": false,
+	"objectType": "object",
+	"mainTexture": "sh2.png",
+	"editorIcon": "sh2.png",
+	"isImportant": false,
+	"transparent": true
+}
